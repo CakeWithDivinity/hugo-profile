@@ -292,7 +292,7 @@ header .navbar.animate {
 #experience .experience-container {
     background-color: var(--secondary-color) !important;
     border-radius: .75rem;
-    box-shadow: 0px 8px 56px rgb(15 80 100 / 16%);
+    box-shadow: 0px 8px 56px rgba(0, 0, 0, 0.25);
 }
 
 #experience .nav-item .nav-link {
@@ -408,7 +408,7 @@ header .navbar.animate {
 
 #education .card {
     border-radius: 1.5rem;
-    box-shadow: 0px 8px 56px rgb(15 80 100 / 16%);
+    box-shadow: 0px 8px 56px rgba(0, 0, 0, 0.25);
     border: 2px solid var(--text-secondary-color) !important;
     transition: box-shadow .2s linear,opacity .2s linear;
     transition: transform 0.2s;
